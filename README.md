@@ -8,10 +8,10 @@ I’m a behavioral economist and data scientist focused on how incentives, infor
 - Causal inference and applied econometrics
 - Market design under uncertainty
 
-**Tools**
+**Tools:**
 Python, SQL, pandas, MATLAB, Stata, oTree
 
-**Portfolio**
+**Portfolio:**
 Check the pinned repos below for end-to-end analyses and reproducible code.
 
 
