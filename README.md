@@ -9,7 +9,7 @@ I’m a behavioral economist and data scientist focused on how incentives, infor
 - Market design under uncertainty
 
 **Tools**
-Python, SQL, pandas, statsmodels, scikit-learn, MATLAB, Stata, oTree
+Python, SQL, pandas, MATLAB, Stata, oTree
 
 **Portfolio**
 Check the pinned repos below for end-to-end analyses and reproducible code.
@@ -19,7 +19,7 @@ Check the pinned repos below for end-to-end analyses and reproducible code.
 **yt2dh/yt2dh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-statsmodels, scikit-learn, 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
