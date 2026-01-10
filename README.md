@@ -12,7 +12,7 @@ I’m a behavioral economist and data scientist focused on how incentives, infor
 Python, SQL, pandas, MATLAB, Stata, oTree
 
 **Portfolio:**
-Check the pinned repos below for end-to-end analyses and reproducible code.
+Check the pinned repos below for end-to-end analyses and reproducible code
 
 
 <!--
