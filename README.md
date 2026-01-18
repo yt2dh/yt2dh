@@ -3,7 +3,7 @@
 I’m a behavioral economist and data scientist focused on how incentives, information, and decision errors shape individual behavior and market outcomes.
 
 **What I work on:**
-- Experiments & behavioral data
+- Experiments and behavioral data
 - Pricing and choice modeling (logit / discrete choice)
 - Causal inference and applied econometrics
 - Market design under uncertainty
