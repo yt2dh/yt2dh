@@ -1,6 +1,6 @@
 ## Welcome, I'm Yen
 
-I’m a behavioral economist and data scientist focused on how incentives, information, and decision errors shape individual behavior and market outcomes.
+I’m an applied economist and data scientist focused on how incentives, information, and decision errors shape individual behavior and market outcomes.
 
 **What I work on:**
 - Experiments and behavioral data
