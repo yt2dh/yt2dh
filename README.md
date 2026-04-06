@@ -9,7 +9,7 @@ I’m an applied economist focused on how incentives, information, and decision 
 - Market design under uncertainty
 
 **Tools:**
-Python, SQL, pandas, MATLAB, Stata, R, oTree
+Python, SQL, MATLAB, Stata, R, oTree
 
 **Portfolio:**
 Check the pinned repos below for end-to-end analyses and reproducible code
