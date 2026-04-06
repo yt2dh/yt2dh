@@ -3,9 +3,9 @@
 I’m an applied economist focused on how incentives, information, and decision errors shape individual behavior and market outcomes.
 
 **What I work on:**
-- Experiments and behavioral data
-- Pricing and choice modeling (logit / discrete choice)
 - Causal inference and applied econometrics
+- Pricing and choice modeling (logit / discrete choice)
+- Experiments and behavioral data
 - Market design under uncertainty
 
 **Tools:**
